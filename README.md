@@ -10,6 +10,9 @@
 ## วิธีการใช้งาน
 วิธีการใช้งานโปรแกรมคำนวณราคาของชนิดปลา
 
-***หน้าแสดงการใช้งาน***
+### ***หน้าแสดงการใช้งาน***
+การอธิบาย ราคาปลาต่อหน่วยกิโลกรัม \
+การเลือกชนิดปลาที่จะคำนวณ \
+การกรอกน้ำหนักของปลาในหน่วยกิโลกรัม 
 
-![First](https://raw.githubusercontent.com/pawaret717/Calculate_FishPrice/main/ImageScreen/ImageFish1.png)
+![First](https://raw.githubusercontent.com/pawaret717/Calculate_FishPrice/main/ImageScreen/Image1.png)
