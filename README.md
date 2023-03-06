@@ -16,3 +16,15 @@
 การกรอกน้ำหนักของปลาในหน่วยกิโลกรัม 
 
 ![First](https://raw.githubusercontent.com/pawaret717/Calculate_FishPrice/main/ImageScreen/Image1.png)
+
+### ***เลือกชนิดของปลา***
+
+![Second](https://raw.githubusercontent.com/pawaret717/Calculate_FishPrice/main/ImageScreen/Image2.png)
+
+### ***กรอกน้ำหนักของปลาที่ต้องการคำนวณ***
+
+![Third](https://raw.githubusercontent.com/pawaret717/Calculate_FishPrice/main/ImageScreen/Image3.png)
+
+### ***แสดงราคาของปลาที่คำนวณ***
+
+![Fourth](https://raw.githubusercontent.com/pawaret717/Calculate_FishPrice/main/ImageScreen/Image4.png)
