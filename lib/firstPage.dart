@@ -56,7 +56,7 @@ class _a1State extends State<A1> {
         title: SizedBox(
           child:
               Row(mainAxisAlignment: MainAxisAlignment.center, children: const [
-            Text("คำนวณราขาขายปลา   "),
+            Text("คำนวณราคาขายปลา   "),
             FittedBox(
               fit: BoxFit.fitWidth,
               child: Image(
