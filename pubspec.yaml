@@ -70,7 +70,6 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
   - assets/images/
-  - assets/images/club.jpg
   - assets/images/Planil.jpg
   - assets/images/Plabuk.png
 
